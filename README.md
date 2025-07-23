@@ -1,1 +1,1 @@
-# ArtGallery
+# Art-gallery
